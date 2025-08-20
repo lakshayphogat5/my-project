@@ -1,0 +1,14 @@
+Admin Dashboard with CSS Grid Layout and Theme Switching
+
+HTML FILE
+1. created an input field that takes input as checkbox for checked or not.
+2. created an tag for containing all tag for collective css
+3. Made respective tag for areas like {main,header,footer,navigation panel}
+
+
+CSS FILE
+1.MADE variables for the toggle button to change from light mode to dark mode
+2. used ~ for inputing the variables values in dashboard class instead of input tag
+3. used grid template in dash board class for appropriate  height and width
+4 used var for background color using the variables made in root
+5 . used display property none in input to make the checkbox invisible
